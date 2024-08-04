@@ -1,1 +1,30 @@
-hello
+git
+--------------
+--------------
+
+git config --global user.name ""
+git config --global user.email ""
+git init
+git add
+git status
+git log
+git commit "commit name"
+
+
+remote repo
+-------------
+---------------
+git remote add remote_ud_name remote_url
+
+
+
+change the branch
+-----------------
+-----------------
+git branch -M "branch_name"
+
+
+
+
+
+
